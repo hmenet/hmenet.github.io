@@ -2,4 +2,7 @@
 
 Ressources pour les cours d'informatique tronc commun (ITC) de première année.
 
-[ITC1](/documents/table_exemple_cours.pdf)
+## Séance 1 :
+
+[TP1.pdf](/documents/TP1.pdf)
+[Slides séance 1](/documents/cours1.pdf)
