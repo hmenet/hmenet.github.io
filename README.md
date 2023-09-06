@@ -1,4 +1,4 @@
-[ITC1](/classes/ITC1.md) [ITC2](/classes/ITC1.md) 
+[ITC1](/classes/ITC1.md) [ITC2](/classes/ITC2.md) 
 
 
 # Documents communs
